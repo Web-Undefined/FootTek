@@ -5687,3 +5687,7 @@ body.is-preload #banner .inner {
 #four {
     padding-bottom: 0.25em !important;
 }
+
+#bigAccordion {
+    padding: 2em 1.25em !important;
+}
