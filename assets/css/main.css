@@ -5682,6 +5682,10 @@ body.is-preload #banner .inner {
         flex: 100%;
         max-width: 100%;
     }
+    #landingText {
+        padding-bottom: 0.5em;
+        font-size: 1.25em;
+    }
 }
 
 #four {
@@ -5690,4 +5694,8 @@ body.is-preload #banner .inner {
 
 #bigAccordion {
     padding: 2em 1.25em !important;
+}
+
+#landingText {
+    padding-bottom: 1em;
 }
