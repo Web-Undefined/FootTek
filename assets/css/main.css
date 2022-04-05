@@ -5391,7 +5391,7 @@ table.alt tbody tr td {
     -ms-transition-delay: 0.5s;
     transition-delay: 0.5s;
     content: "";
-    background-color: rgba(49, 45, 2, 0.4);
+    background: radial-gradient(rgba(255, 255, 255, 0.4), rgba(34, 31, 2, 0.6));
     opacity: 0.85;
     position: absolute;
     top: 0;
