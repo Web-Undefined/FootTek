@@ -5676,6 +5676,35 @@ body.is-preload #banner .inner {
     .landingLogo {
         max-width: 85%;
     }
+    #expressiveWords {
+        font-size: 1em;
+        padding-top: 0.5em;
+    }
+    .colTest {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    #firstTestimonial {
+        padding-bottom: 0;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+    #lastTestimonial {
+        padding-top: 0;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+    .innerTestimonial {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-radius: 0;
+    }
+    .lastName {
+        margin: 0;
+    }
+    .firstName {
+        margin: 0;
+    }
 }
 @media screen and (max-width: 600px) {
     .colTest {
@@ -5685,6 +5714,9 @@ body.is-preload #banner .inner {
     #landingText {
         padding-bottom: 0.5em;
         font-size: 1.25em;
+    }
+    #expressiveWords {
+        font-size: 0.75em;
     }
 }
 
@@ -5698,4 +5730,8 @@ body.is-preload #banner .inner {
 
 #landingText {
     padding-bottom: 1em;
+}
+#expressiveWords {
+    padding-bottom: 1em;
+    color: #ffffff;
 }
