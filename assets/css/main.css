@@ -2059,7 +2059,7 @@ button.primary.accent1:hover,
 button.primary.accent1:focus,
 .button.primary.accent1:hover,
 .button.primary.accent1:focus {
-    background-color: #65d2b2 !important;
+    background-color: #24b364 !important;
 }
 
 input[type="submit"].primary.accent1:active,
@@ -2075,7 +2075,7 @@ input[type="reset"].primary.accent2,
 input[type="button"].primary.accent2,
 button.primary.accent2,
 .button.primary.accent2 {
-    background-color: #51b9cc !important;
+    background-color: #75b975 !important;
     color: #ffffff !important;
 }
 
@@ -2089,7 +2089,7 @@ button.primary.accent2:hover,
 button.primary.accent2:focus,
 .button.primary.accent2:hover,
 .button.primary.accent2:focus {
-    background-color: #65c1d2 !important;
+    background-color: #96de8a !important;
 }
 
 input[type="submit"].primary.accent2:active,
@@ -2097,7 +2097,7 @@ input[type="reset"].primary.accent2:active,
 input[type="button"].primary.accent2:active,
 button.primary.accent2:active,
 .button.primary.accent2:active {
-    background-color: #3db1c6 !important;
+    background-color: #b2f0a8 !important;
 }
 
 input[type="submit"].primary.accent3,
@@ -2237,7 +2237,7 @@ button.primary:hover,
 button.primary:focus,
 .button.primary:hover,
 .button.primary:focus {
-    background-color: #65d2b2;
+    background-color: #24b364;
 }
 
 input[type="submit"].primary:active,
@@ -2401,7 +2401,7 @@ input[type="password"].accent2:focus,
 input[type="email"].accent2:focus,
 select.accent2:focus,
 textarea.accent2:focus {
-    border-color: #51b9cc !important;
+    border-color: #75b975 !important;
 }
 
 input[type="text"].accent3:focus,
@@ -3644,7 +3644,7 @@ table.alt tbody tr td {
 }
 
 .wrapper.style2 {
-    background-color: #51b9cc;
+    background-color: #75b975;
     color: #d4eef2;
 }
 
@@ -3756,7 +3756,7 @@ table.alt tbody tr td {
 .wrapper.style2 button.primary:focus,
 .wrapper.style2 .button.primary:hover,
 .wrapper.style2 .button.primary:focus {
-    background-color: #65d2b2;
+    background-color: #24b364;
 }
 
 .wrapper.style2 input[type="submit"].primary:active,
@@ -3795,7 +3795,7 @@ table.alt tbody tr td {
 .wrapper.style2 textarea.alt {
     background-color: #ffffff;
     border-color: #ffffff;
-    color: #51b9cc;
+    color: #75b975;
 }
 
 .wrapper.style2 input[type="text"].alt:focus,
@@ -3812,7 +3812,7 @@ table.alt tbody tr td {
 
 .wrapper.style2 select option {
     color: #ffffff;
-    background: #51b9cc;
+    background: #75b975;
 }
 
 .wrapper.style2 input[type="checkbox"] + label,
@@ -4015,7 +4015,7 @@ table.alt tbody tr td {
 .wrapper.style3 button.primary:focus,
 .wrapper.style3 .button.primary:hover,
 .wrapper.style3 .button.primary:focus {
-    background-color: #65d2b2;
+    background-color: #24b364;
 }
 
 .wrapper.style3 input[type="submit"].primary:active,
@@ -4274,7 +4274,7 @@ table.alt tbody tr td {
 .wrapper.style4 button.primary:focus,
 .wrapper.style4 .button.primary:hover,
 .wrapper.style4 .button.primary:focus {
-    background-color: #65d2b2;
+    background-color: #24b364;
 }
 
 .wrapper.style4 input[type="submit"].primary:active,
@@ -4728,7 +4728,7 @@ table.alt tbody tr td {
 }
 
 .spotlight.accent2 {
-    background-color: #51b9cc;
+    background-color: #75b975;
 }
 
 .spotlight.accent2 h2 {
@@ -5370,7 +5370,7 @@ table.alt tbody tr td {
 #banner button.primary:focus,
 #banner .button.primary:hover,
 #banner .button.primary:focus {
-    background-color: #65d2b2;
+    background-color: #24b364;
 }
 
 #banner input[type="submit"].primary:active,
