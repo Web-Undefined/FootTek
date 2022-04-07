@@ -5706,6 +5706,11 @@ body.is-preload #banner .inner {
         margin: 0;
     }
 }
+@media screen and (max-width: 737px) {
+    .lastButtons {
+        display: none;
+    }
+}
 @media screen and (max-width: 600px) {
     .colTest {
         flex: 100%;
@@ -5717,6 +5722,9 @@ body.is-preload #banner .inner {
     }
     #expressiveWords {
         font-size: 0.75em;
+    }
+    #reviewBadge {
+        display: none;
     }
 }
 
