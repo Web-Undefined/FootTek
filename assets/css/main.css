@@ -5802,6 +5802,6 @@ body.is-preload #banner .inner {
         width: 100%;
     }
     .bullet {
-        justify-content: center;
+        text-align: left;
     }
 }
