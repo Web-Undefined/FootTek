@@ -5256,7 +5256,7 @@ table.alt tbody tr td {
     justify-content: center;
     background-color: #1e2731;
     color: #ffffff;
-    background-image: url("../../images/stock.jpg");
+    background-image: url("../../images/bgTry.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -5391,8 +5391,8 @@ table.alt tbody tr td {
     -ms-transition-delay: 0.5s;
     transition-delay: 0.5s;
     content: "";
-    background: radial-gradient(rgba(255, 255, 255, 0.4), rgba(34, 31, 2, 0.6));
-    opacity: 0.85;
+    background: #1e2731;
+    opacity: 0.7;
     position: absolute;
     top: 0;
     left: 0;
@@ -5742,4 +5742,66 @@ body.is-preload #banner .inner {
 #expressiveWords {
     padding-bottom: 1em;
     color: #ffffff;
+}
+
+.aboutBullets {
+    list-style: none;
+    padding: 0;
+}
+.bullet {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 0 0 1em 0;
+}
+.arrowRight {
+    max-width: 3em;
+    max-height: 3em;
+}
+.bulletText {
+    padding-left: 1em;
+}
+.bulletText p {
+    margin: 0;
+}
+.bulletText p,
+.bulletText h3 {
+    color: white;
+}
+.bulletTextDark {
+    padding-left: 1em;
+}
+.bulletTextDark p {
+    margin: 0;
+}
+#aboutHeader {
+    color: white;
+    width: 100%;
+    padding-bottom: 1em;
+    text-align: center;
+}
+.rightContent {
+    position: relative;
+    width: 40%;
+}
+@media screen and (max-width: 1000px) {
+    .aboutPad {
+        padding: 0 1em;
+    }
+}
+@media screen and (max-width: 1300px) {
+    .aboutPad {
+        padding: 0 1.5em;
+    }
+    .rightContent {
+        width: 45%;
+    }
+}
+@media screen and (max-width: 980px) {
+    .rightContent {
+        width: 100%;
+    }
+    .bullet {
+        justify-content: center;
+    }
 }
