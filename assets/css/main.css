@@ -5805,3 +5805,10 @@ body.is-preload #banner .inner {
         text-align: left;
     }
 }
+
+#affordable {
+    color: #c83200 !important;
+}
+#disclaimer {
+    font-size: 0.75em;
+}
